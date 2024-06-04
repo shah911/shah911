@@ -1,4 +1,3 @@
-[![(MasterHead)](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)
 <h1 align="center">Hi 👋, I'm Shahzeb</h1>
 <h3 align="center">A full-stack developer</h3>
 
