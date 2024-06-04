@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shahzeb</h1>
 <h3 align="center">A full-stack developer</h3>
 
+<p>I'll help you create a website with a modern layout and interactive web animations so that you can stand out and engage your audience effectively.</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shah911&hide=contribs,prs)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shah911&label=Profile%20views&color=0e75b6&style=flat" alt="shah911" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.mohammadshahzeb.com/](https://www.mohammadshahzeb.com/)
